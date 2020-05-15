@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SimpleRenderer.dir/main.cpp.o  -o SimpleRenderer  -lglfw -lGLEW -lGL 
